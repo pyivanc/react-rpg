@@ -1,0 +1,1 @@
+export const HERO_MOVE = 'HERO_MOVE'

@@ -1,0 +1,1 @@
+export const WORLD_KEY_CAPTURE = 'WORLD_KEY_CAPTURE'
